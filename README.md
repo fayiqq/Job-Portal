@@ -41,10 +41,5 @@ A full-stack **Job Portal Web Application** built using the **MERN Stack** that 
 - Postman  
 - VS Code  
 
----
-
-## 👥 Group Members
-
-- Fayiq Farooq 
-- Hatim Manzoor    
+---   
 
